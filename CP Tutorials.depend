@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1672336347 source:c:\users\jayss\onedrive\desktop\projects\cp tutorials\1\a.c
+	<stdio.h>
+
+1672336891 source:c:\users\jayss\onedrive\desktop\projects\cp tutorials\1\b(i).c
+	<stdio.h>
+
+1672338662 source:c:\users\jayss\onedrive\desktop\projects\cp tutorials\1\b(iii).c
+	<stdio.h>
+
+1672339191 source:c:\users\jayss\onedrive\desktop\projects\cp tutorials\2\a.c
+	<stdio.h>
+
+1672339755 source:c:\users\jayss\onedrive\desktop\projects\cp tutorials\2\c.c
+	<stdio.h>
+
+1672340574 source:c:\users\jayss\onedrive\desktop\projects\cp tutorials\2\e.c
+	<stdio.h>
+	<math.h>
+
+1672340865 source:c:\users\jayss\onedrive\desktop\projects\cp tutorials\2\f.c
+	<stdio.h>
+
+1672341183 source:c:\users\jayss\onedrive\desktop\projects\cp tutorials\2\g(i).c
+	<stdio.h>
+
